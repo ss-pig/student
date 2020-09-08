@@ -4,4 +4,7 @@ public class Homework{
 	private void Home(){
 
 	}
+	public void Text(){
+
+	}
 }
