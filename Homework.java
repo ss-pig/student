@@ -11,4 +11,9 @@ public class Homework{
 
 
 
+
+	public void Text(){
+
+	}
+
 }
