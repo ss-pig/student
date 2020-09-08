@@ -1,6 +1,7 @@
 public class Teacher{
-	private int id ;
-	private int age ;
+	private int id;
+	private String name;
+	private int age;
 	private void tea(){
 
 	}
